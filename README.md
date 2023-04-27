@@ -10,6 +10,7 @@ Sou desenvolvedora front-end e tenho paixão por criar MODs para a plataforma Fi
 
 ### Skills  🧠
 
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]
 
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
@@ -22,8 +23,8 @@ Sou desenvolvedora front-end e tenho paixão por criar MODs para a plataforma Fi
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitee)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soualuiza&hide_progress=true&theme=tokyonight)](https://github.com/soualuiza/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soualuiza&hide_progress=true&theme=tokyonight)](https://github.com/soualuiza/github-readme-stats)
 
 
 
